@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Application Details
 |               |
 | ------------- |
@@ -34,3 +35,7 @@ First Fiori App
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
 
+=======
+# train-fiori-reto
+Reto SAPUI5
+>>>>>>> 97523542588c1ea2d92742504f63e66abc29aa03
